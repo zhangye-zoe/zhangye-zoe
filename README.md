@@ -15,7 +15,5 @@ Reflections, readings, and technical breakdowns during research.
 Visual designs for interpretable computational pathology.
 [View Figure Gallery →](https://zhangye-zoe.github.io/figures/)
 
----
 
-📫 [zhangye@cuhk.edu.cn](mailto:zhangye@cuhk.edu.cn)
 
