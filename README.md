@@ -1,6 +1,6 @@
 # 👩‍🔬 Ye Zhang （张野）
 
-Postdoctoral Fellow · The Chinese University of Hong Kong
+Postdoctoral Fellow · The Chinese University of Hong Kong ·
 Computational Pathology · Multi-Omics · Interpretable AI
 
 
