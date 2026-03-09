@@ -1,19 +1,8 @@
-# 👩‍🔬 Ye Zhang （张野）
+### 👩‍🔬 Ye Zhang （张野）
 
-Postdoctoral Fellow · The Chinese University of Hong Kong ·
-Computational Pathology · Multi-Omics · Interpretable AI
+**Postdoctoral Fellow, The Chinese University of Hong Kong**
 
-
-
-## 🧠 Research Notes
-
-Reflections, readings, and technical breakdowns during research.
-[Explore Notes →](https://zhangye-zoe.github.io/notes/)
-
-## 🎨 Scientific Figures
-
-Visual designs for interpretable computational pathology.
-[View Figure Gallery →](https://zhangye-zoe.github.io/figures/)
+> Computational Pathology · Computational Biology · Interpretable AI
 
 
-
+[![Website](https://img.shields.io/badge/Website-Ye_Zhang-blue)](https://zhangye-zoe.com) [![Notes](https://img.shields.io/badge/Research-Notes-green)](https://zhangye-zoe.github.io/notes/) [![Figures](https://img.shields.io/badge/Scientific-Figures-orange)](https://zhangye-zoe.github.io/figures/)
