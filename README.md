@@ -1,20 +1,16 @@
-
 <div align="center">
-  <div>
-    <big><strong>Ye Zhang (张野)</strong></big>
-  </div>
-  <div>
+  <h3>Ye Zhang (张野)</h3>
+  <p>
     <strong>Postdoctoral Fellow</strong> · The Chinese University of Hong Kong<br>
     <sub>Computational Pathology · Computational Biology · Interpretable AI</sub>
-  </div>
-  <div>
+  </p>
+  <p>
     <a href="https://zhangye-zoe.com">Website</a>
     &nbsp;·&nbsp;
     <a href="https://zhangye-zoe.github.io/notes/">Research Notes</a>
     &nbsp;·&nbsp;
     <a href="https://zhangye-zoe.github.io/figures/">Scientific Figures</a>
-  </div>
-  
+  </p>
   <p align="center">
     <img src="./assets/daylight.png"
          alt="A poetic journey from dawn to midnight"
