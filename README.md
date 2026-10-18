@@ -1,8 +1,5 @@
 <div align="center">
-  <div>
-    <big><strong>Ye Zhang (张野)</strong></big>
-  </div>
-
+  <h3>Ye Zhang (张野)</h3>
   <div>
     Postdoctoral Fellow · The Chinese University of Hong Kong
   </div>
@@ -14,7 +11,7 @@
     &nbsp;·&nbsp;
     <a href="https://zhangye-zoe.github.io/figures/">Scientific Figures</a>
   </div>
-  
+
   <br>
 
   <p align="center">
